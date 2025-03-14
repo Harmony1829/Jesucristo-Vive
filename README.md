@@ -100,7 +100,7 @@
     </main>
 
     <footer>
-        <p>© 2025 Jesucristo Vive - </p>
+        <p>© 2025 Jesucristo Vive</p>
     </footer>
 
 </body>
