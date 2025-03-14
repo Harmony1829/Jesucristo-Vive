@@ -100,7 +100,7 @@
     </main>
 
     <footer>
-        <p>© 2025 Jesucristo Vive - La Iglesia de Jesucristo de los Santos de los Últimos Días</p>
+        <p>© 2025 Jesucristo Vive - </p>
     </footer>
 
 </body>
